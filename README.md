@@ -11,3 +11,4 @@ loosely based on the [pi-blaster](https://github.com/sarfata/pi-blaster/).
 * https://wiki.london.hackspace.org.uk/view/LED_tiles_V2
 * https://github.com/hzeller/rpi-gpio-dma-demo
 * https://github.com/Wallacoloo/Raspberry-Pi-DMA-Example
+* http://www.raspberrypi.org/wp-content/uploads/2012/02/BCM2835-ARM-Peripherals.pdf
